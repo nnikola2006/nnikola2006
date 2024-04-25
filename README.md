@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Nikola and I'm currently learning c++ and data structures. 
 
 <!--
 **nnikola2006/nnikola2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
